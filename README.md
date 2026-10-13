@@ -7,7 +7,9 @@ Paste a URL and get a SAFE / SUSPICIOUS / PHISHING verdict, a 0-100 safety score
 
 > PhishGuard is an educational security aid, not a guarantee. Verdicts can produce false positives and false negatives, so it should never be the sole safeguard against phishing.
 
-[**LinkedIn**](https://linkedin.com/in/ratnesh-pathak-087466279) | [**Email**](mailto:pathakratnesh03@gmail.com)
+[**Live Demo**](https://phishguard-zw3p.onrender.com/) | [**LinkedIn**](https://linkedin.com/in/ratnesh-pathak-087466279) | [**Email**](mailto:pathakratnesh03@gmail.com)
+
+*Hosted on a free tier: the first load may take up to a minute while the app wakes up.*
 
 ---
 
